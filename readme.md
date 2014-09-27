@@ -8,6 +8,11 @@ Later [he shared](https://twitter.com/stvr_tweets/status/515907022844207104) thi
 
 This repository merely exists to store the SVG characters for further use.
 
+# Issues
+
+* Currently missing glyphs for many common characters, including numbers
+* Kerning is inconsistent
+
 # License
 
 This repository and the Ivory-Waltz font are covered under a CC-0 license. See `license.md` for details.
