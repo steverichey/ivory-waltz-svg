@@ -1,4 +1,4 @@
-# ivory-waltz-svg
+![](https://raw.githubusercontent.com/steverichey/ivory-waltz-svg/master/example.png)
 
 Storage for the SVG files for the Ivory Waltz font.
 
